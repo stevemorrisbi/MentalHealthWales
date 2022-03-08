@@ -1,5 +1,7 @@
 # Measurements of low anxiety levels in Wales (Source: Public Health Wales 2018)
 
+### Overview: Analysing low anxiety as a measurement of wellbeing in Wales. The project deconstructs the data on socio-economic and demographic factors.
+
 Mental wellbeing is a state where people are able to cope with the normal stresses of life whilst being productive and being able to contribute to their communities. This profile supports one of Public Health Wales’ strategic priorities to ‘Improve mental wellbeing and build resilience’ and includes data on adult wellbeing.
 
 
