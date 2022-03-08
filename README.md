@@ -4,7 +4,7 @@
 
 Mental wellbeing is a state where people are able to cope with the normal stresses of life whilst being productive and being able to contribute to their communities. This profile supports one of Public Health Wales’ strategic priorities to ‘Improve mental wellbeing and build resilience’ and includes data on adult wellbeing.
 
-The data originate from surveys including the National Survey for Wales and the Annual Population Survey.
+The data originated from the National Survey for Wales.
 
 Definitions:
 
