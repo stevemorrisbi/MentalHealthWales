@@ -6,11 +6,11 @@ Mental wellbeing is a state where people are able to cope with the normal stress
 
 The data originated from the National Survey for Wales.
 
-Definitions:
+**Definitions:**
 
-Adult - Adults who took part in the questionnaire are of the age 16+
+**Adult -** Adults who took part in the questionnaire are of the age 16+
 
-Anxiety - Adults reporting a low or very low score (0-3) to the question, "Overall, how anxious did you feel yesterday? Where 0 is 'not at all anxious' and 10 is 'completely anxious'.
+**Anxiety -** Adults reporting a low or very low score (0-3) to the question, "Overall, how anxious did you feel yesterday? Where 0 is 'not at all anxious' and 10 is 'completely anxious'.
 
 ![mh1](https://user-images.githubusercontent.com/99413257/157246825-0eccabd6-93b2-4465-9a0b-598b89c56c6f.jpg)
 
