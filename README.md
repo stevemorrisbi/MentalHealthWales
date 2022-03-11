@@ -33,6 +33,9 @@ Demographic breakdown:
 
 
 ![mh4](https://user-images.githubusercontent.com/99413257/157246998-e355c668-d4bd-4085-abd1-f68420520bc9.jpg)
+
+### Conclusion -
+The key messages have been embedded into the dashboard in order to summarise the vast amounts of data. Housing, Employment and Health appear as the metrics with the most influence on anxiety levels as a broad basis for further investigation. 
 ![mh5](https://user-images.githubusercontent.com/99413257/157247014-77013f73-adfb-4780-a002-28246ee9af39.jpg)
 
 ### Ideas for future work -
