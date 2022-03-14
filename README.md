@@ -40,4 +40,4 @@ The key messages have been embedded into the report in order to summarise the va
 
 ### Ideas for future work -
 
-To further this case study, the data collected by Public Health Wales in 2018 could form an assessment on the percentage of low anxiety scores related to different metrics pre and post Covid-19. 
+To further this case study, the data collected in 2018 could form an assessment on the percentage of low anxiety scores, pre and post Covid-19. 
