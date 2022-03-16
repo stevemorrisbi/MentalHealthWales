@@ -4,7 +4,7 @@
 
 Mental wellbeing is a state where people are able to cope with the normal stresses of life whilst being productive and being able to contribute to their communities. This profile supports one of Public Health Wales’ strategic priorities to ‘Improve mental wellbeing and build resilience’ and includes data on adult wellbeing.
 
-The data originated from the National Survey for Wales and was cleaned in Excel + visualised in Power BI. 
+The data originated from the National Survey for Wales and was cleaned in Excel before being visualised in Power BI. 
 
 **Definitions:**
 
@@ -25,7 +25,7 @@ introduces the four mental wellbeing indicators from the APS which were also col
 
 ![mh3](https://user-images.githubusercontent.com/99413257/157246982-7765182c-cd8e-473f-b5c0-42c5272117a8.jpg)
 
-Demographic breakdown:
+Demographic factors:
 
 - Age
 - Sex
@@ -40,4 +40,4 @@ The key messages have been embedded into the report in order to summarise the va
 
 ### Ideas for future work -
 
-To further this case study, the data collected in 2018 could form an assessment on the percentage of low anxiety scores, pre and post Covid-19. 
+To further this case study, the data collected in 2018 could form an assessment on the percentage of low anxiety scores in Wales, pre and post Covid-19. 
